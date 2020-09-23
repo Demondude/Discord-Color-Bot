@@ -1,5 +1,5 @@
 # Discord Color Bot
-This bot manages color roles for you.
+This bot manages color roles for you. All in a one small package.
 You will need to edit the config and change few things.
 
 # Setup Guide
